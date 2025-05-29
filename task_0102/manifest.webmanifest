@@ -1,0 +1,15 @@
+{
+    "name": "task_0102",
+    "short_name": "task_0102",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#292929",
+    "theme_color": "#000",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
